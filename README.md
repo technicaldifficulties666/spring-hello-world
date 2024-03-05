@@ -10,6 +10,7 @@ NOTE: This guide assumes windows installation
 To get started, you'll need to have  Java JDK version 17 and Gradle 8.6 installed on your machine 
 
 Follow this guide to install and switch between multiple JDKs in windows: https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/ 
+
 Follow guide on https://spring.io/quickstart for starting a new Spring Boot project
 
 Change the build.gradle file as done here
